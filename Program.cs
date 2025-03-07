@@ -2,7 +2,9 @@
 {
     internal class Program
     {
-        // main
+        /// <summary>
+        /// main
+        /// </summary>
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
