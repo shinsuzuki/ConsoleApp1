@@ -3,7 +3,7 @@
     internal class Program
     {
         /// <summary>
-        /// main
+        /// main1
         /// </summary>
         static void Main(string[] args)
         {
